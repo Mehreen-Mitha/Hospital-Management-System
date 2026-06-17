@@ -1,3 +1,4 @@
+
 package hospitalmanagementsystem; // defining the package name
 
 import javax.swing.*; // importing swing components for gui
