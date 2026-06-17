@@ -1,0 +1,2 @@
+Month: January | PatientBills: 1500.0 | PharmacySales: 2300.0 | OtherCharges: 1500.0 | TotalRevenue: 5300.0
+REPORT GENERATED | Month: January | TotalRevenue: 5300.0
