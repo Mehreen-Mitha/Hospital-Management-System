@@ -6,7 +6,7 @@ The system follows a layered architecture combining object-oriented backend desi
 
 ---
 
-![Logo Page](1LogoPage.png)
+![Logo Page](Assets/1LogoPage.png)
 ![Login Page](2LoginPage.png)
 ![Selection Screen](3Selection.png)
 ![Patient Features](4PatientFeat.png)
