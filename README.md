@@ -4,20 +4,9 @@ HMS is a full-scale, desktop-based Hospital Management Information System (HMIS)
 
 The system follows a layered architecture combining object-oriented backend design, service-level business logic, and a frontend-inspired page-based UI structure.
 
----
-
 ![Logo Page](Assets/1LogoPage.png)
-![Login Page](2LoginPage.png)
-![Selection Screen](3Selection.png)
-![Patient Features](4PatientFeat.png)
-![Personal Info](5PersonInfo.png)
-![Department Info](6DepInfo.png)
-![Equipment](7Equipment.png)
-![Pharmacy](8Pharmacy.png)
-![Bed Management](9Bed.png)
-![Ambulance Services](10AmbSer.png)
-![Review](11Rev.png)
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -33,27 +22,34 @@ The system follows a layered architecture combining object-oriented backend desi
 
 ### 🏥 Patient & Staff Management
 Centralized system for managing patients, doctors, nurses, and their full hospital lifecycle including registration, updates, and tracking.
+![Personal Info](Assets/5PersonInfo.png)
 
 ### 📅 Appointment System
 Handles scheduling, rescheduling, and linking patients with doctors and departments.
 
 ### 🛏️ Bed & Department Monitoring
 Tracks ICU and general bed availability in real time, helping manage hospital capacity.
+![Bed Management](Assets/9Bed.png)
+![Department Info](Assets/6DepInfo.png)
 
 ### 🚑 Ambulance Dispatch System
 Manages ambulance availability, assignments, and emergency response logs.
+![Ambulance Services](Assets/10AmbSer.png)
 
 ### 💊 Pharmacy Module
 Handles medication inventory, stock tracking, and pharmaceutical operations.
+![Pharmacy](Assets/8Pharmacy.png)
 
 ### 🧾 Billing & Revenue Tracking
 Aggregates hospital financial data and generates monthly revenue insights.
+![Review](Assets/11Rev.png)
 
 ### ⚰️ Incident & Death Records
 Maintains structured logs of critical incidents and mortality records for administrative reporting.
 
 ### 🧑‍⚕️ Equipment Management
 Tracks hospital equipment status, location, and maintenance lifecycle.
+![Equipment](Assets/7Equipment.png)
 
 ---
 
@@ -96,8 +92,11 @@ The application uses a **page-based UI structure**, similar in concept to fronte
 
 #### Authentication & Navigation
 - `LoginPage` : an admin login page
+![Login Page](Assets/2LoginPage.png)
 - `FrontAccessPage` : a page where user is given a choice to choose between features (eg. Ambulance Service, Patient Info, etc)
+![Selection Screen](Assets/3Selection.png)
 - `SecondPage` : a page where further features are given in corelation to the patient specifcally
+![Patient Features](Assets/4PatientFeat.png)
 
 #### Core Operational Pages
 - `PatientPage`
