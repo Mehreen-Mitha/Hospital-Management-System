@@ -6,6 +6,19 @@ The system follows a layered architecture combining object-oriented backend desi
 
 ---
 
+![Logo Page](1LogoPage.png)
+![Login Page](2LoginPage.png)
+![Selection Screen](3Selection.png)
+![Patient Features](4PatientFeat.png)
+![Personal Info](5PersonInfo.png)
+![Department Info](6DepInfo.png)
+![Equipment](7Equipment.png)
+![Pharmacy](8Pharmacy.png)
+![Bed Management](9Bed.png)
+![Ambulance Services](10AmbSer.png)
+![Review](11Rev.png)
+
+
 ## 🛠️ Tech Stack
 
 - **Language:** Java (JDK 8+)
