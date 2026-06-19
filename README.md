@@ -29,6 +29,9 @@ Centralized system for managing patients, doctors, nurses, and their full hospit
 ### 📅 Appointment System
 Handles scheduling, rescheduling, and linking patients with doctors and departments.
 
+![Appointment Page](Assets/12App.png)
+
+
 ### 🛏️ Bed & Department Monitoring
 Tracks ICU and general bed availability in real time, helping manage hospital capacity.
 
@@ -56,6 +59,9 @@ Aggregates hospital financial data and generates monthly revenue insights.
 
 ### ⚰️ Incident & Death Records
 Maintains structured logs of critical incidents and mortality records for administrative reporting.
+
+![Incident Page](Assets/13Cas.png)
+
 
 ### 🧑‍⚕️ Equipment Management
 Tracks hospital equipment status, location, and maintenance lifecycle.
