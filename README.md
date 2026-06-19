@@ -6,6 +6,18 @@ The system follows a layered architecture combining object-oriented backend desi
 
 ---
 
+## 📸 Project Visuals
+
+| Login | Selection Menu | Patient Features |
+| :---: | :---: | :---: |
+| ![Login](assets/2LoginPage.png) | ![Selection](assets/3Selection.png) | ![Patient](assets/4PatientFeat.png) |
+
+| Equipment Management | Pharmacy | Ambulance Service |
+| :---: | :---: | :---: |
+| ![Equipment](assets/7Equipment.png) | ![Pharmacy](assets/8Pharmacy.png) | ![Ambulance](assets/10AmbSer.png) |
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Language:** Java (JDK 8+)
