@@ -193,9 +193,9 @@ Tracks hospital equipment status, location, and maintenance lifecycle.
 - Java Development Kit (JDK 8 or higher)
 
 ### Steps
+Open terminal on your desktop and type in the following cloning process. 
+After the file has been cloned, open it and you will be able to access the src file containing the source code.
 
 ```bash
-git clone https://github.com/your-username/hms.git
-cd hms
-javac -d bin src/**/*.java
-java -cp bin com.hms.Main
+git clone https://github.com/Mehreen-Mitha/Hospital-Management-System.git
+
