@@ -18,59 +18,6 @@ The system follows a layered architecture combining object-oriented backend desi
 
 ---
 
-## 🚀 Key Features
-
-### 🏥 Patient & Staff Management
-Centralized system for managing patients, doctors, nurses, and their full hospital lifecycle including registration, updates, and tracking.
-
-![Personal Info](Assets/5PersonInfo.png)
-
-
-### 📅 Appointment System
-Handles scheduling, rescheduling, and linking patients with doctors and departments.
-
-![Appointment Page](Assets/12App.png)
-
-
-### 🛏️ Bed & Department Monitoring
-Tracks ICU and general bed availability in real time, helping manage hospital capacity.
-
-![Bed Management](Assets/9Bed.png)
-![Department Info](Assets/6DepInfo.png)
-
-
-### 🚑 Ambulance Dispatch System
-Manages ambulance availability, assignments, and emergency response logs.
-
-![Ambulance Services](Assets/10AmbSer.png)
-
-
-### 💊 Pharmacy Module
-Handles medication inventory, stock tracking, and pharmaceutical operations.
-
-![Pharmacy](Assets/8Pharmacy.png)
-
-
-### 🧾 Billing & Revenue Tracking
-Aggregates hospital financial data and generates monthly revenue insights.
-
-![Review](Assets/11Rev.png)
-
-
-### ⚰️ Incident & Death Records
-Maintains structured logs of critical incidents and mortality records for administrative reporting.
-
-![Incident Page](Assets/13Cas.png)
-
-
-### 🧑‍⚕️ Equipment Management
-Tracks hospital equipment status, location, and maintenance lifecycle.
-
-![Equipment](Assets/7Equipment.png)
-
-
----
-
 ## 🏗️ System Architecture Overview
 
 HMS is built using a multi-layer architecture:
@@ -157,6 +104,58 @@ The system uses lightweight file-based storage to simulate a database:
 - `death_toll`
 
 This ensures persistent state across sessions without external dependencies.
+
+---
+
+## 🚀 Key Features
+
+### 🏥 Patient & Staff Management
+Centralized system for managing patients, doctors, nurses, and their full hospital lifecycle including registration, updates, and tracking.
+
+![Personal Info](Assets/5PersonInfo.png)
+
+
+### 📅 Appointment System
+Handles scheduling, rescheduling, and linking patients with doctors and departments.
+
+![Appointment Page](Assets/12App.png)
+
+
+### 🛏️ Bed & Department Monitoring
+Tracks ICU and general bed availability in real time, helping manage hospital capacity.
+
+![Bed Management](Assets/9Bed.png)
+![Department Info](Assets/6DepInfo.png)
+
+
+### 🚑 Ambulance Dispatch System
+Manages ambulance availability, assignments, and emergency response logs.
+
+![Ambulance Services](Assets/10AmbSer.png)
+
+
+### 💊 Pharmacy Module
+Handles medication inventory, stock tracking, and pharmaceutical operations.
+
+![Pharmacy](Assets/8Pharmacy.png)
+
+
+### 🧾 Billing & Revenue Tracking
+Aggregates hospital financial data and generates monthly revenue insights.
+
+![Review](Assets/11Rev.png)
+
+
+### ⚰️ Incident & Death Records
+Maintains structured logs of critical incidents and mortality records for administrative reporting.
+
+![Incident Page](Assets/13Cas.png)
+
+
+### 🧑‍⚕️ Equipment Management
+Tracks hospital equipment status, location, and maintenance lifecycle.
+
+![Equipment](Assets/7Equipment.png)
 
 ---
 
