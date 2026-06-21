@@ -193,9 +193,29 @@ Tracks hospital equipment status, location, and maintenance lifecycle.
 - Java Development Kit (JDK 8 or higher)
 
 ### Steps
-Open terminal on your desktop and type in the following cloning process. 
-After the file has been cloned, open it and you will be able to access the src file containing the source code.
+
+1. Clone the Repository
+
+Open your terminal or command prompt and run:
 
 ```bash
 git clone https://github.com/Mehreen-Mitha/Hospital-Management-System.git
+```
 
+2. Navigate to the Project Folder
+
+```bash
+cd Hospital-Management-System
+```
+
+3. Compile and Run
+
+Depending on your project structure, use the appropriate commands. For example:
+
+```bash
+# If using javac
+javac -d bin src/*.java
+java -cp bin MainClassName
+```
+
+> **Note:** If you are using an IDE such as IntelliJ IDEA, Eclipse, or VS Code, you can simply select **Open Project** and choose the cloned folder. The IDE will automatically detect and configure the source code.
